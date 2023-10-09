@@ -4,6 +4,7 @@ This is a Vite project.
 
 In each src folder you can find one of the possible solutions for each phase of the mini-challenge.
 
+Please find the challenge requirements in the requirements.md
 
 ## Run this commands to start the project:
 
